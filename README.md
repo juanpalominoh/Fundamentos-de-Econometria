@@ -31,6 +31,8 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 :file_folder: [Clase 10: Heterocedasticidad](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/10.%20Heterocedasticidad)
 
+---
+
 ### Evaluaciones
 
 - :pushpin: 2 Prácticas Calificadas (20%) 
