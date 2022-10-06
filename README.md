@@ -34,33 +34,51 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 ### Evaluaciones
 
 - :pushpin: 2 Prácticas Calificadas (20%) 
-- :pushpin: Examen Parcial (20%). Fecha: 14/10/2022 
-- :pushpin: Examen Final (35%). Fecha: 25/11/2022 
-- :pushpin: Presentación Final del Poster (25%). Fecha: 25/11/2022 :bangbang:
+- :pushpin: Examen Parcial (20%). Fecha: **14/10/2022**
+- :pushpin: Examen Final (35%). Fecha: **25/11/2022**
+- :pushpin: Presentación Final del Poster (25%). Fecha: **25/11/2022** :bangbang:
 
 ---
 
 ### Referencias y enlaces 
 
-- [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
+**Libros:**
+
 - [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
+- [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
 - [Hayashi, F. (2000). Econometrics. 2000. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691010182/econometrics)
 - [Hill, R. C., Griffiths, W. E., & Lim, G. C. (2018). Principles of econometrics. John Wiley & Sons.](https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944)
-- [Otros libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
+- [Más libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
 
----
+**Manuales online:**
 
-### Comunidades y foros
+- [Cunningham, S. (2021). Causal inference. In Causal Inference. Yale University Press.](https://mixtape.scunning.com/): Causal inference encompasses the tools that allow social scientists to determine what causes what. In a messy world, causal inference is what helps establish the causes and effects of the actions being studied—for example, the impact (or lack thereof) of increases in the minimum wage on employment, the effects of early childhood education on incarceration later in life, or the influence on economic growth of introducing malaria nets in developing regions. Scott Cunningham introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages.
 
-Para aquellos que inician y para los que alguna vez fuimos nuevos en Stata sirve bastante ver las preguntas/respuestas de otros programadores en las comunidades de Stata:
+- [R para Ciencia de Datos](https://es.r4ds.hadley.nz/): Libro base para el uso de R, aquí podrán ver que la plataforma de Rstudio no es solo para el análisis estadístico, sino que de procesamiento de datos y reporte (versión en español).
 
-+ :pushpin: [Stata Community](https://www.statalist.org/)
-+ :pushpin: [Stata Journal](https://www.stata-journal.com/)
-+ :pushpin: [Stack Overflow](https://stackoverflow.com/questions/tagged/stata)
+- [AnalizaR Datos Políticos](https://arcruz0.github.io/libroadp/index.html): Manual con herramientas y tips prácticos para analizar datos políticos.
+
+- [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
 
 ---
 
 ### Otros enlaces de interés
 
-+ :pushpin: [The Stata Guide](https://medium.com/the-stata-guide)
-+ :pushpin: [Códigos para la ENDES](https://github.com/DHSProgram)
++ :pushpin: [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
++ :pushpin: [Econometrics Academy](https://sites.google.com/site/econometricsacademy/)
++ :pushpin: [Compendio de links útiles](https://www.lecy.info/r-for-public-policy)
++ :pushpin: [Conectarse a Github desde R](https://happygitwithr.com/rstudio-git-github.html#clone-the-new-github-repository-to-your-computer-via-rstudio)
+
+---
+
+### Comunidades y foros
+
+Para aquellos que inician y para los que alguna vez fuimos nuevos en Stata y RStudio sirve bastante ver las preguntas/respuestas de otros programadores en las comunidades de Stata:
+
++ :pushpin: [Stata Community](https://www.statalist.org/)
++ :pushpin: [Stack Overflow - Stata](https://stackoverflow.com/questions/tagged/stata)
++ :pushpin: [RStudio Community](https://community.rstudio.com/)
++ :pushpin: [Stack Overflow - R](https://stackoverflow.com/questions/tagged/r)
+
+---
+
