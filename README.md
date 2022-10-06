@@ -23,7 +23,7 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 :file_folder: [Clase 6: Estimación con Restricción Lineal](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/6.%20Estimaci%C3%B3n%20con%20Restricci%C3%B3n%20Lineal)
 
-:file_folder: [Clase 7: Multicolinealidad](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/7.%20Multicolinealidad)
+:file_folder: [Clase 7: Multicolinealidad y Variables Cualitativas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/7.%20Multicolinealidad)
 
 :file_folder: [Clase 8: Cambio Estructural](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/8.%20Cambio%20Estructural)
 
