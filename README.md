@@ -42,8 +42,8 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 ### Referencias
 
-+ :closed_book: [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
-+ :closed_book: [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
+:closed_book: [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
+:closed_book: [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
 + [Hayashi, F. (2000). Econometrics. 2000. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691010182/econometrics)
 + [Hill, R. C., Griffiths, W. E., & Lim, G. C. (2018). Principles of econometrics. John Wiley & Sons.](https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944)
 + [Más libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
