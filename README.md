@@ -6,10 +6,12 @@ Profesor: **Juan Palomino** :mailbox_with_no_mail: juan.palominoh@pucp.pe
 
 Jefe de Prácticas: **Tania Paredes** :mailbox_with_no_mail: tania.paredes@pucp.edu.pe
 
-En este repositorio podrán encontrar el material preparado para las clases, prácticas dirigidas y evaluaciones.
+En este repositorio podrán encontrar el material preparado para las clases, prácticas dirigidas y evaluaciones. 
 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Fundamentos-de-Econometria.git
 - Descargar el archivo .zip :point_right: [Link](https://github.com/juanpalominoh/Fundamentos-de-Econometria/archive/refs/heads/main.zip)
+
+**Objetivo:** El curso busca que el alumno domine los fundamentos y principios básicos de la econometría a través de ejemplos aplicados usando softwares como Rstudio y Colab (Clases) y Stata (Prácticas Dirigidas). 
 
 ---
 
@@ -34,6 +36,11 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 :file_folder: [Clase 9: Teoría Asintótica](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/9.%20Teor%C3%ADa%20Asint%C3%B3tica)
 
 :file_folder: [Clase 10: Heterocedasticidad](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/10.%20Heterocedasticidad)
+
+:file_folder: [Prácticas Dirigidas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Pr%C3%A1cticas%20Dirigidas)
+
+:file_folder: [Prácticas Calificadas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Pr%C3%A1cticas%20Calificadas)
+
 
 ---
 
