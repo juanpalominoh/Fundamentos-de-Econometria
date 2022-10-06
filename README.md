@@ -42,29 +42,29 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 ### Referencias
 
-- [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
-- [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
-- [Hayashi, F. (2000). Econometrics. 2000. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691010182/econometrics)
-- [Hill, R. C., Griffiths, W. E., & Lim, G. C. (2018). Principles of econometrics. John Wiley & Sons.](https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944)
-- [Más libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
++ :closed_book: [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
++ :closed_book: [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
++ [Hayashi, F. (2000). Econometrics. 2000. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691010182/econometrics)
++ [Hill, R. C., Griffiths, W. E., & Lim, G. C. (2018). Principles of econometrics. John Wiley & Sons.](https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944)
++ [Más libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
 
 ---
 
 ### Manuales online de interés
 
-+ :pushpin: [Introduction to Econometrics with R](https://www.econometrics-with-r.org/): Libro online con herramientas útiles para empezar a estudiar modelos econométricos con R. 
++ :green_book: [Introduction to Econometrics with R](https://www.econometrics-with-r.org/): Libro online con herramientas útiles para empezar a estudiar modelos econométricos con R. 
  
-+ :pushpin: [Econometrics Academy](https://sites.google.com/site/econometricsacademy/): La Academia de Econometría es una plataforma educativa cuyo fin es ofrecer educación gratuita sobre Econometría.
++ :green_book: [Econometrics Academy](https://sites.google.com/site/econometricsacademy/): La Academia de Econometría es una plataforma educativa cuyo fin es ofrecer educación gratuita sobre Econometría.
 
-+ :pushpin: [Cunningham, S. (2021). Causal inference. In Causal Inference. Yale University Press.](https://mixtape.scunning.com/): Libro online que presenta métodos necesarios para llegar a respuestas significativas a las preguntas de causalidad, utilizando una variedad de técnicas de modelado e instrucciones de codificación para los lenguajes de programación R y Stata.
++ :blue_book: [Cunningham, S. (2021). Causal inference. In Causal Inference. Yale University Press.](https://mixtape.scunning.com/): Libro online que presenta métodos necesarios para llegar a respuestas significativas a las preguntas de causalidad, utilizando una variedad de técnicas de modelado e instrucciones de codificación para los lenguajes de programación R y Stata.
 
-+ :pushpin: [R para Ciencia de Datos](https://es.r4ds.hadley.nz/): Libro base para el uso de R, aquí podrán ver que la plataforma de Rstudio no es solo para el análisis estadístico, sino que de procesamiento de datos y reporte (versión en español).
++ :blue_book: [R para Ciencia de Datos](https://es.r4ds.hadley.nz/): Libro base para el uso de R, aquí podrán ver que la plataforma de Rstudio no es solo para el análisis estadístico, sino que de procesamiento de datos y reporte (versión en español).
 
-+ :pushpin: [AnalizaR Datos Políticos](https://arcruz0.github.io/libroadp/index.html): Manual con herramientas y tips prácticos para analizar datos políticos.
++ :orange_book: [AnalizaR Datos Políticos](https://arcruz0.github.io/libroadp/index.html): Manual con herramientas y tips prácticos para analizar datos políticos.
 
-+ :pushpin: [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
++ :orange_book: [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
 
-+ :pushpin: [Compendio de links útiles](https://www.lecy.info/r-for-public-policy)
++ :orange_book: [Compendio de links útiles](https://www.lecy.info/r-for-public-policy)
 
 ---
 
