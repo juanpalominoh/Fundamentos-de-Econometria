@@ -40,9 +40,7 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 ---
 
-### Referencias y enlaces 
-
-**Libros:**
+### Referencias
 
 - [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
 - [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
@@ -50,24 +48,23 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 - [Hill, R. C., Griffiths, W. E., & Lim, G. C. (2018). Principles of econometrics. John Wiley & Sons.](https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944)
 - [Más libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
 
-**Manuales online:**
-
-- [Cunningham, S. (2021). Causal inference. In Causal Inference. Yale University Press.](https://mixtape.scunning.com/): Causal inference encompasses the tools that allow social scientists to determine what causes what. In a messy world, causal inference is what helps establish the causes and effects of the actions being studied—for example, the impact (or lack thereof) of increases in the minimum wage on employment, the effects of early childhood education on incarceration later in life, or the influence on economic growth of introducing malaria nets in developing regions. Scott Cunningham introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages.
-
-- [R para Ciencia de Datos](https://es.r4ds.hadley.nz/): Libro base para el uso de R, aquí podrán ver que la plataforma de Rstudio no es solo para el análisis estadístico, sino que de procesamiento de datos y reporte (versión en español).
-
-- [AnalizaR Datos Políticos](https://arcruz0.github.io/libroadp/index.html): Manual con herramientas y tips prácticos para analizar datos políticos.
-
-- [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
-
 ---
 
-### Otros enlaces de interés
+### Manuales online de interés
 
-+ :pushpin: [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
-+ :pushpin: [Econometrics Academy](https://sites.google.com/site/econometricsacademy/)
++ :pushpin: [Introduction to Econometrics with R](https://www.econometrics-with-r.org/): Libro online con herramientas útiles para empezar a estudiar modelos econométricos con R. 
+ 
++ :pushpin: [Econometrics Academy](https://sites.google.com/site/econometricsacademy/): La Academia de Econometría es una plataforma educativa cuyo fin es ofrecer educación gratuita sobre Econometría.
+
++ :pushpin: [Cunningham, S. (2021). Causal inference. In Causal Inference. Yale University Press.](https://mixtape.scunning.com/): Libro online que presenta métodos necesarios para llegar a respuestas significativas a las preguntas de causalidad, utilizando una variedad de técnicas de modelado e instrucciones de codificación para los lenguajes de programación R y Stata.
+
++ :pushpin: [R para Ciencia de Datos](https://es.r4ds.hadley.nz/): Libro base para el uso de R, aquí podrán ver que la plataforma de Rstudio no es solo para el análisis estadístico, sino que de procesamiento de datos y reporte (versión en español).
+
++ :pushpin: [AnalizaR Datos Políticos](https://arcruz0.github.io/libroadp/index.html): Manual con herramientas y tips prácticos para analizar datos políticos.
+
++ :pushpin: [UCLA](https://stats.oarc.ucla.edu/r/): Espacio para aprender estadística y programación.
+
 + :pushpin: [Compendio de links útiles](https://www.lecy.info/r-for-public-policy)
-+ :pushpin: [Conectarse a Github desde R](https://happygitwithr.com/rstudio-git-github.html#clone-the-new-github-repository-to-your-computer-via-rstudio)
 
 ---
 
