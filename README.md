@@ -35,7 +35,7 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 - :pushpin: 2 Prácticas Calificadas (20%) 
 - :pushpin: Examen Parcial (20%). Fecha: **14/10/2022**
-- :pushpin: Examen Final (35%). Fecha: **25/11/2022**
+- :pushpin: Examen Final (35%). Fecha: **07/12/2022**
 - :pushpin: Presentación Final del Poster (25%). Fecha: **25/11/2022** :bangbang:
 
 ---
