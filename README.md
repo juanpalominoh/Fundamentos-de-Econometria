@@ -4,7 +4,7 @@
 
 Profesor: **Juan Palomino** :mailbox_with_no_mail: juan.palominoh@pucp.pe
 
-En este repositorio podrán encontrar el material preparado para las clases y evaluación.
+En este repositorio podrán encontrar el material preparado para las clases, prácticas dirigidas y evaluaciones.
 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Fundamentos-de-Econometria.git
 - Descargar el archivo .zip :point_right: [Link](https://github.com/juanpalominoh/Fundamentos-de-Econometria/archive/refs/heads/main.zip)
@@ -42,10 +42,11 @@ En este repositorio podrán encontrar el material preparado para las clases y ev
 
 ### Referencias y enlaces 
 
-- [Acock, A. C. (2018). A gentle introduction to Stata. Stata press.](https://www.stata.com/bookstore/gentle-introduction-to-stata/)
-- [Becketti, S. (2020). Introduction to time series using Stata. College Station, TX: Stata Press.](https://www.stata.com/bookstore/introduction-to-time-series-using-stata/)
-- [Cameron, A. C., & Trivedi, P. K. (2022). Microeconometrics Using Stata, Second Edition, Volumes I and II. College Station, TX: Stata press.](https://www.stata.com/bookstore/microeconometrics-stata/)
-- [Mitchell, M. N. (2022). A visual guide to Stata graphics. Fourth Edition. Stata Press.](https://www.stata.com/bookstore/visual-guide-to-stata-graphics/) 
+- [Greene, W. H. (2018). Econometric analysis (Eight Edition).](https://www.amazon.com/Econometric-Analysis-8th-William-Greene/dp/0134461363)
+- [Gujarati, D., & Porter, D. (2010). Econometría (quinta edición). México: Editorial Mc. Graw Hill.](https://fvela.files.wordpress.com/2012/10/econometria-damodar-n-gujarati-5ta-ed.pdf)
+- [Hayashi, F. (2000). Econometrics. 2000. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691010182/econometrics)
+- [Hill, R. C., Griffiths, W. E., & Lim, G. C. (2018). Principles of econometrics. John Wiley & Sons.](https://www.wiley.com/en-us/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944)
+- [Otros libros](https://drive.google.com/open?id=1ehT2_b792U9bSEWaenAMkwzjXynehOQB&authuser=juan.palominoh%40pucp.pe&usp=drive_fs)
 
 ---
 
