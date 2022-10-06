@@ -4,10 +4,14 @@
 
 Profesor: **Juan Palomino** :mailbox_with_no_mail: juan.palominoh@pucp.pe
 
+Jefe de Prácticas: **Tania Paredes** :mailbox_with_no_mail: tania.paredes@pucp.edu.pe
+
 En este repositorio podrán encontrar el material preparado para las clases, prácticas dirigidas y evaluaciones.
 
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Fundamentos-de-Econometria.git
 - Descargar el archivo .zip :point_right: [Link](https://github.com/juanpalominoh/Fundamentos-de-Econometria/archive/refs/heads/main.zip)
+
+---
 
 ### Clases 
 
