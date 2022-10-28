@@ -37,10 +37,15 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 :file_folder: [Clase 10: Heterocedasticidad](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/10.%20Heterocedasticidad)
 
+:file_folder: [Clase 11: Autocorrelación](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/11.%20Autocorrelaci%C3%B3n)
+
+:file_folder: [Clase 12: Endogeneidad](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/12.%20Endogeneidad)
+
 :file_folder: [Prácticas Dirigidas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Pr%C3%A1cticas%20Dirigidas)
 
 :file_folder: [Prácticas Calificadas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Pr%C3%A1cticas%20Calificadas)
 
+:file_folder: [Examen Parcial](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Examen%20Parcial)
 
 ---
 
