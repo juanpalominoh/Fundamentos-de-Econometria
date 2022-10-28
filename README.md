@@ -11,7 +11,7 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 - Clonar este repositorio (necesitas crearte un usuario) :point_right: git@github.com:juanpalominoh/Fundamentos-de-Econometria.git
 - Descargar el archivo .zip :point_right: [Link](https://github.com/juanpalominoh/Fundamentos-de-Econometria/archive/refs/heads/main.zip)
 
-**Objetivo:** El curso busca que el alumno domine los fundamentos y principios básicos de la econometría a través de ejemplos aplicados usando softwares como Rstudio y Colab (Clases) y Stata (Prácticas Dirigidas). 
+**Objetivo:** El curso busca que el estudiante domine los fundamentos y principios básicos de la econometría a través de ejemplos aplicados usando softwares como Rstudio y Colab (Clases) y Stata (Prácticas Dirigidas). 
 
 ---
 
