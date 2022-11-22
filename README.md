@@ -43,6 +43,14 @@ En este repositorio podrán encontrar el material preparado para las clases, pr�
 
 :file_folder: [Clase 13: Ecuaciones Simultáneas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/13.%20Ecuaciones%20Simult%C3%A1neas)
 
+:file_folder: [Clase 14: Máxima Verosimilitud](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/14.%20M%C3%A1xima%20Verosimilitud)
+
+:file_folder: [Clase 15: Tests basados en Máxima Verosimilitud](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/15.%20Tests%20basados%20en%20M%C3%A1xima%20Verosimilitud)
+
+:file_folder: [Clase 16: Probit y Logit Binomial](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/16.%20Probit%20y%20Logit%20Binomial)
+
+:file_folder: [Clase 17: Series de Tiempo](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/17.%20Series%20de%20Tiempo)
+
 :file_folder: [Prácticas Dirigidas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Pr%C3%A1cticas%20Dirigidas)
 
 :file_folder: [Prácticas Calificadas](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Pr%C3%A1cticas%20Calificadas)
