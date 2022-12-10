@@ -57,6 +57,8 @@ En este repositorio podr√°n encontrar el material preparado para las clases, pr√
 
 :file_folder: [Examen Parcial](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Examen%20Parcial)
 
+:file_folder: [Examen Final](https://github.com/juanpalominoh/Fundamentos-de-Econometria/tree/main/Examen%20Final)
+
 ---
 
 ### Evaluaciones
